@@ -16,4 +16,4 @@
 
 Are you in need of help? got that urge to collab? Just wanna chat? You can slide into my DMs on [Twitter](https://twitter.com/direct_messages/create/ltrademark) or [Insta](https://www.instagram.com/ltrademark).
 
-[![ltm](https://cdn.glitch.com/06ba5010-da5b-435a-8995-0fe71f37bbda%2Flmt-spin.gif?v=1569957039805)](https://ltrdmrk.co)
+[![ltm](https://media1.giphy.com/media/DRTrzvTdqzcyzvcfeh/giphy.gif)](https://ltrdmrk.co)
