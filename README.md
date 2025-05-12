@@ -10,7 +10,14 @@
 
 ---
 
-![88x31 tag](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN28zdXcweGtldWgzZzZtbWJ2dDZheW16cmN0enFhdnVtMmI2YjBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSWncsbelXoBg9BPbk/giphy.gif) [![webring](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJrbG5zdWRib3ByMmV2b2JqbTh3eDNqc293dmU0d3h6ZHRvZ3dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DlxL1DWrWLsrXmPIhB/giphy.gif)](https://webring.ltrdmrk.co)
+<div align="center">
+  <a href="https://ltrademark.com">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN28zdXcweGtldWgzZzZtbWJ2dDZheW16cmN0enFhdnVtMmI2YjBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSWncsbelXoBg9BPbk/giphy.gif" alt="88x31 tag" />  
+  </a>
+  <a href="https://webring.ltrdmrk.co">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJrbG5zdWRib3ByMmV2b2JqbTh3eDNqc293dmU0d3h6ZHRvZ3dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DlxL1DWrWLsrXmPIhB/giphy.gif" alt="webring" />
+  </a>
+</div>
 
 ---
 
